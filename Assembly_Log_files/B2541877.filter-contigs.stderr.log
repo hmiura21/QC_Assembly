@@ -1,0 +1,68 @@
+INFO: detected skesa defline format
+
+INFO: Contig_6_3.96444 too short
+INFO: Contig_6_3.96444 low coverage
+INFO: Contig_10_180.166 too short
+INFO: Contig_17_4.81871 low coverage
+INFO: Contig_20_90.6049 too short
+INFO: Contig_22_4.82497 low coverage
+INFO: Contig_23_57.0515 too short
+INFO: Contig_27_9.71893 too short
+INFO: Contig_29_4.13233 low coverage
+INFO: Contig_34_82.7021 too short
+INFO: Contig_35_43.351 too short
+INFO: Contig_46_4.80132 low coverage
+INFO: Contig_51_52.5722 too short
+INFO: Contig_53_4.20225 too short
+INFO: Contig_53_4.20225 low coverage
+INFO: Contig_57_36.4532 too short
+INFO: Contig_58_103.369 too short
+INFO: Contig_62_56.5855 too short
+INFO: Contig_65_176.176 too short
+INFO: Contig_73_35.9923 too short
+INFO: Contig_77_6.96316 too short
+INFO: Contig_90_107.655 too short
+INFO: Contig_95_65.4394 too short
+INFO: Contig_96_99.3324 too short
+INFO: Contig_99_17.6284 too short
+INFO: Contig_102_50.4647 too short
+INFO: Contig_112_47.9703 too short
+INFO: Contig_114_65.9277 too short
+INFO: Contig_122_2.70711 too short
+INFO: Contig_122_2.70711 low coverage
+INFO: Contig_125_173.45 too short
+INFO: Contig_126_54.7139 too short
+INFO: Contig_138_115.76 too short
+INFO: Contig_147_4.65759 low coverage
+INFO: Contig_149_3.73723 low coverage
+INFO: Contig_154_4.33333 low coverage
+INFO: Contig_155_3.32663 too short
+INFO: Contig_155_3.32663 low coverage
+INFO: Contig_157_5.59375 too short
+INFO: Contig_159_2.68246 too short
+INFO: Contig_159_2.68246 low coverage
+INFO: Contig_160_66.9956 too short
+INFO: Contig_189_4.2167 low coverage
+INFO: Contig_192_44.3199 too short
+INFO: Contig_193_89.7512 too short
+INFO: Contig_196_4.63682 low coverage
+
+INFO: coverage quartiles of filtered contigs
+    (including cov filt)
+    25th=24.70
+    50th=29.33
+    75th=33.24
+
+INFO: coverage of filtered contigs
+    (including cov filt)
+    minimum=5.00
+    average=35.89
+    maximum=606.68
+
+INFO: 196 contigs input
+INFO: 2095879 bp input
+INFO: 41 contigs discarded
+INFO: 18886 bp discarded
+INFO: 155 contigs output
+INFO: 2076993 bp output
+

@@ -1,0 +1,67 @@
+INFO: detected skesa defline format
+
+INFO: Contig_5_17.9496 too short
+INFO: Contig_10_5.5127 too short
+INFO: Contig_12_94.1951 too short
+INFO: Contig_15_32.7576 too short
+INFO: Contig_25_18.3969 too short
+INFO: Contig_26_38.5939 too short
+INFO: Contig_31_116.708 too short
+INFO: Contig_38_77.0503 too short
+INFO: Contig_40_19.7495 too short
+INFO: Contig_43_206.539 too short
+INFO: Contig_44_111.14 too short
+INFO: Contig_50_57.2408 too short
+INFO: Contig_53_55.2076 too short
+INFO: Contig_64_84.1645 too short
+INFO: Contig_76_57.5359 too short
+INFO: Contig_84_10.5208 too short
+INFO: Contig_87_64.4929 too short
+INFO: Contig_114_24.6388 too short
+INFO: Contig_117_196.944 too short
+INFO: Contig_124_49.9978 too short
+INFO: Contig_147_4.17867 too short
+INFO: Contig_147_4.17867 low coverage
+INFO: Contig_153_54.239 too short
+INFO: Contig_156_152.499 too short
+INFO: Contig_160_35.1864 too short
+INFO: Contig_170_26.2271 too short
+INFO: Contig_177_21.9928 too short
+INFO: Contig_184_31.8083 too short
+INFO: Contig_196_57.4708 too short
+INFO: Contig_197_41.3864 too short
+INFO: Contig_200_120.712 too short
+INFO: Contig_203_14.9263 too short
+INFO: Contig_207_61.0553 too short
+INFO: Contig_215_85.2979 too short
+INFO: Contig_216_9.74396 too short
+INFO: Contig_228_55.1642 too short
+INFO: Contig_239_22.9081 too short
+INFO: Contig_254_33.3137 too short
+INFO: Contig_256_74.8866 too short
+INFO: Contig_271_4.70556 too short
+INFO: Contig_271_4.70556 low coverage
+INFO: Contig_273_46.8344 too short
+INFO: Contig_296_48.9945 too short
+INFO: Contig_325_54.6654 too short
+INFO: Contig_331_130.682 too short
+
+INFO: coverage quartiles of filtered contigs
+    (including cov filt)
+    25th=29.25
+    50th=32.78
+    75th=36.75
+
+INFO: coverage of filtered contigs
+    (including cov filt)
+    minimum=13.80
+    average=46.40
+    maximum=2407.35
+
+INFO: 332 contigs input
+INFO: 2087367 bp input
+INFO: 43 contigs discarded
+INFO: 14898 bp discarded
+INFO: 289 contigs output
+INFO: 2072469 bp output
+

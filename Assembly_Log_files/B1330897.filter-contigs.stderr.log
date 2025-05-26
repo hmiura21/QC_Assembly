@@ -1,0 +1,67 @@
+INFO: detected skesa defline format
+
+INFO: Contig_5_58.4656 too short
+INFO: Contig_7_69.6111 too short
+INFO: Contig_8_81.0617 too short
+INFO: Contig_15_101.12 too short
+INFO: Contig_22_4.0829 low coverage
+INFO: Contig_26_99.4373 too short
+INFO: Contig_27_42.9752 too short
+INFO: Contig_35_3.44 too short
+INFO: Contig_35_3.44 low coverage
+INFO: Contig_41_71.3483 too short
+INFO: Contig_43_4.16883 too short
+INFO: Contig_43_4.16883 low coverage
+INFO: Contig_48_7.86835 too short
+INFO: Contig_50_3.93615 low coverage
+INFO: Contig_54_30.4675 too short
+INFO: Contig_57_50.3179 too short
+INFO: Contig_63_5.86253 too short
+INFO: Contig_73_4.73269 low coverage
+INFO: Contig_81_50.1663 too short
+INFO: Contig_85_185.265 too short
+INFO: Contig_89_4.0463 too short
+INFO: Contig_89_4.0463 low coverage
+INFO: Contig_94_83.7769 too short
+INFO: Contig_101_43.8686 too short
+INFO: Contig_102_92.1421 too short
+INFO: Contig_105_61.2778 too short
+INFO: Contig_124_141.487 too short
+INFO: Contig_125_120.374 too short
+INFO: Contig_144_54.0583 too short
+INFO: Contig_147_3.83756 low coverage
+INFO: Contig_156_64.9602 too short
+INFO: Contig_157_4.39286 too short
+INFO: Contig_157_4.39286 low coverage
+INFO: Contig_160_3.73958 too short
+INFO: Contig_160_3.73958 low coverage
+INFO: Contig_164_3.66143 too short
+INFO: Contig_164_3.66143 low coverage
+INFO: Contig_165_4.90212 low coverage
+INFO: Contig_172_4.26265 low coverage
+INFO: Contig_176_111.547 too short
+INFO: Contig_182_6.19388 too short
+INFO: Contig_184_70.8992 too short
+INFO: Contig_192_41.4176 too short
+INFO: Contig_193_43.9081 too short
+INFO: Contig_194_91.8545 too short
+
+INFO: coverage quartiles of filtered contigs
+    (including cov filt)
+    25th=22.58
+    50th=28.79
+    75th=35.80
+
+INFO: coverage of filtered contigs
+    (including cov filt)
+    minimum=5.04
+    average=39.24
+    maximum=666.36
+
+INFO: 196 contigs input
+INFO: 2095488 bp input
+INFO: 39 contigs discarded
+INFO: 19067 bp discarded
+INFO: 157 contigs output
+INFO: 2076421 bp output
+

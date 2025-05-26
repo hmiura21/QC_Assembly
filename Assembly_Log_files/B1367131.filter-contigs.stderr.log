@@ -1,0 +1,65 @@
+INFO: detected skesa defline format
+
+INFO: Contig_12_35.7583 too short
+INFO: Contig_27_12.2762 too short
+INFO: Contig_51_137.138 too short
+INFO: Contig_52_31.7403 too short
+INFO: Contig_54_89.0085 too short
+INFO: Contig_68_45.7051 too short
+INFO: Contig_71_41.7741 too short
+INFO: Contig_76_23.823 too short
+INFO: Contig_96_41.6358 too short
+INFO: Contig_99_28.1255 too short
+INFO: Contig_105_31.3214 too short
+INFO: Contig_107_54.3788 too short
+INFO: Contig_108_24.6236 too short
+INFO: Contig_112_32.1057 too short
+INFO: Contig_114_11.4041 too short
+INFO: Contig_117_52.9328 too short
+INFO: Contig_137_41.656 too short
+INFO: Contig_138_25.0551 too short
+INFO: Contig_139_30.8037 too short
+INFO: Contig_143_53.5985 too short
+INFO: Contig_152_22.9668 too short
+INFO: Contig_154_12.2186 too short
+INFO: Contig_155_14.1617 too short
+INFO: Contig_156_44.7011 too short
+INFO: Contig_167_13.6335 too short
+INFO: Contig_174_10.7443 too short
+INFO: Contig_185_27.4615 too short
+INFO: Contig_188_16.2593 too short
+INFO: Contig_194_22.6162 too short
+INFO: Contig_199_37.7178 too short
+INFO: Contig_201_82.2533 too short
+INFO: Contig_206_46.4424 too short
+INFO: Contig_207_31.7074 too short
+INFO: Contig_214_105.708 too short
+INFO: Contig_224_40.5619 too short
+INFO: Contig_229_22.1148 too short
+INFO: Contig_247_59.9694 too short
+INFO: Contig_254_24.9143 too short
+INFO: Contig_255_46.3115 too short
+INFO: Contig_261_16.773 too short
+INFO: Contig_262_27.0441 too short
+INFO: Contig_266_25.9974 too short
+INFO: Contig_268_44.2527 too short
+
+INFO: coverage quartiles of filtered contigs
+    (including cov filt)
+    25th=13.09
+    50th=15.82
+    75th=18.73
+
+INFO: coverage of filtered contigs
+    (including cov filt)
+    minimum=5.74
+    average=21.31
+    maximum=561.65
+
+INFO: 271 contigs input
+INFO: 2074827 bp input
+INFO: 43 contigs discarded
+INFO: 13582 bp discarded
+INFO: 228 contigs output
+INFO: 2061245 bp output
+

@@ -1,0 +1,137 @@
+INFO: detected skesa defline format
+
+INFO: Contig_8_10.7672 too short
+INFO: Contig_14_10.2327 too short
+INFO: Contig_18_57.586 too short
+INFO: Contig_21_14.5368 too short
+INFO: Contig_24_6.35829 too short
+INFO: Contig_57_18.251 too short
+INFO: Contig_58_22.0152 too short
+INFO: Contig_60_12.2587 too short
+INFO: Contig_64_13.4977 too short
+INFO: Contig_66_12.0084 too short
+INFO: Contig_67_6.62308 too short
+INFO: Contig_75_17.604 too short
+INFO: Contig_86_6.21041 too short
+INFO: Contig_105_16.8373 too short
+INFO: Contig_109_17.0074 too short
+INFO: Contig_115_15.6792 too short
+INFO: Contig_116_25.7468 too short
+INFO: Contig_117_70.6905 too short
+INFO: Contig_118_27.6935 too short
+INFO: Contig_126_11.8439 too short
+INFO: Contig_133_62.118 too short
+INFO: Contig_153_45.1405 too short
+INFO: Contig_165_38.8559 too short
+INFO: Contig_173_9.83206 too short
+INFO: Contig_174_8.03912 too short
+INFO: Contig_175_6.175 too short
+INFO: Contig_179_23.8496 too short
+INFO: Contig_180_7.46696 too short
+INFO: Contig_183_23.4068 too short
+INFO: Contig_186_6.51045 too short
+INFO: Contig_197_8.8685 too short
+INFO: Contig_209_29.7059 too short
+INFO: Contig_210_3.72021 too short
+INFO: Contig_210_3.72021 low coverage
+INFO: Contig_211_3.49833 too short
+INFO: Contig_211_3.49833 low coverage
+INFO: Contig_222_9.4447 too short
+INFO: Contig_225_7.79019 too short
+INFO: Contig_230_17.0023 too short
+INFO: Contig_232_5.04918 too short
+INFO: Contig_236_25.101 too short
+INFO: Contig_241_4.75338 too short
+INFO: Contig_241_4.75338 low coverage
+INFO: Contig_242_10.5417 too short
+INFO: Contig_244_8.51471 too short
+INFO: Contig_248_19.0196 too short
+INFO: Contig_263_4.35932 too short
+INFO: Contig_263_4.35932 low coverage
+INFO: Contig_271_108.152 too short
+INFO: Contig_279_23.319 too short
+INFO: Contig_284_9.96767 too short
+INFO: Contig_286_23.6455 too short
+INFO: Contig_287_12.3757 too short
+INFO: Contig_296_7.79184 too short
+INFO: Contig_300_5.63454 too short
+INFO: Contig_301_5.16957 too short
+INFO: Contig_305_6.61496 too short
+INFO: Contig_312_47.0485 too short
+INFO: Contig_327_7.79605 too short
+INFO: Contig_330_5.16842 too short
+INFO: Contig_334_8.10383 too short
+INFO: Contig_339_10.6286 too short
+INFO: Contig_346_9.19949 too short
+INFO: Contig_351_26.9454 too short
+INFO: Contig_359_53.152 too short
+INFO: Contig_360_7.87398 too short
+INFO: Contig_362_28.7507 too short
+INFO: Contig_374_6.95135 too short
+INFO: Contig_375_4.60244 too short
+INFO: Contig_375_4.60244 low coverage
+INFO: Contig_384_14.3259 too short
+INFO: Contig_388_6.44156 too short
+INFO: Contig_401_8.20973 too short
+INFO: Contig_406_10.5773 too short
+INFO: Contig_412_12.9917 too short
+INFO: Contig_417_13.6128 too short
+INFO: Contig_421_8.52747 too short
+INFO: Contig_427_10.1046 too short
+INFO: Contig_430_9.07647 too short
+INFO: Contig_434_21.9432 too short
+INFO: Contig_441_29.448 too short
+INFO: Contig_449_19.0926 too short
+INFO: Contig_454_28.3733 too short
+INFO: Contig_461_5.88675 too short
+INFO: Contig_463_23.7911 too short
+INFO: Contig_468_39.0234 too short
+INFO: Contig_471_3.39683 too short
+INFO: Contig_471_3.39683 low coverage
+INFO: Contig_492_9.89674 too short
+INFO: Contig_522_15.8692 too short
+INFO: Contig_523_46.2926 too short
+INFO: Contig_525_32.4542 too short
+INFO: Contig_557_19.196 too short
+INFO: Contig_560_10.1229 too short
+INFO: Contig_562_14.5777 too short
+INFO: Contig_566_29.3363 too short
+INFO: Contig_568_11.0967 too short
+INFO: Contig_569_18.4358 too short
+INFO: Contig_577_7.46319 too short
+INFO: Contig_595_12.26 too short
+INFO: Contig_596_23.55 too short
+INFO: Contig_623_7.5 too short
+INFO: Contig_627_8 low coverage
+INFO: Contig_632_11.4389 too short
+INFO: Contig_635_10.9182 too short
+INFO: Contig_637_7.64474 too short
+INFO: Contig_641_75.6957 too short
+INFO: Contig_646_7.71893 too short
+INFO: Contig_651_4.45318 too short
+INFO: Contig_651_4.45318 low coverage
+INFO: Contig_655_10.9644 too short
+INFO: Contig_671_17.9221 too short
+INFO: Contig_693_30.7316 too short
+INFO: Contig_699_22.5989 too short
+INFO: Contig_701_5.33224 too short
+
+INFO: coverage quartiles of filtered contigs
+    (including cov filt)
+    25th=12.81
+    50th=14.67
+    75th=17.02
+
+INFO: coverage of filtered contigs
+    (including cov filt)
+    minimum=5.50
+    average=43.92
+    maximum=17109.30
+
+INFO: 708 contigs input
+INFO: 2014320 bp input
+INFO: 108 contigs discarded
+INFO: 36942 bp discarded
+INFO: 600 contigs output
+INFO: 1977378 bp output
+

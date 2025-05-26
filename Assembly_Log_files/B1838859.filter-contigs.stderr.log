@@ -1,0 +1,67 @@
+INFO: detected skesa defline format
+
+INFO: Contig_6_32.1244 too short
+INFO: Contig_8_46.8899 too short
+INFO: Contig_10_36.0419 too short
+INFO: Contig_11_47.288 too short
+INFO: Contig_12_120.937 too short
+INFO: Contig_16_8.58929 too short
+INFO: Contig_30_3.95136 low coverage
+INFO: Contig_31_60.8472 too short
+INFO: Contig_34_39.7919 too short
+INFO: Contig_36_37.7511 too short
+INFO: Contig_47_95.6228 too short
+INFO: Contig_75_33.6234 too short
+INFO: Contig_88_46.797 too short
+INFO: Contig_89_38.9462 too short
+INFO: Contig_90_29.4039 too short
+INFO: Contig_95_4.90607 low coverage
+INFO: Contig_97_62.2071 too short
+INFO: Contig_98_57.3106 too short
+INFO: Contig_106_11.1224 too short
+INFO: Contig_110_47.3365 too short
+INFO: Contig_124_27.2373 too short
+INFO: Contig_126_35.4261 too short
+INFO: Contig_128_36.5425 too short
+INFO: Contig_129_47.6131 too short
+INFO: Contig_131_20.4648 too short
+INFO: Contig_136_33.5263 too short
+INFO: Contig_137_48.1495 too short
+INFO: Contig_139_34.0517 too short
+INFO: Contig_146_10.6582 too short
+INFO: Contig_148_46.3047 too short
+INFO: Contig_149_30.5405 too short
+INFO: Contig_162_24.2804 too short
+INFO: Contig_168_24.0784 too short
+INFO: Contig_174_72.4664 too short
+INFO: Contig_177_38.2962 too short
+INFO: Contig_178_41.6809 too short
+INFO: Contig_185_110.938 too short
+INFO: Contig_187_33.8878 too short
+INFO: Contig_194_45.8761 too short
+INFO: Contig_211_27.9722 too short
+INFO: Contig_223_51.0369 too short
+INFO: Contig_233_31.1037 too short
+INFO: Contig_234_34.7353 too short
+INFO: Contig_237_17.2079 too short
+INFO: Contig_243_63.8267 too short
+
+INFO: coverage quartiles of filtered contigs
+    (including cov filt)
+    25th=13.90
+    50th=16.93
+    75th=19.62
+
+INFO: coverage of filtered contigs
+    (including cov filt)
+    minimum=5.33
+    average=21.75
+    maximum=506.89
+
+INFO: 243 contigs input
+INFO: 2079121 bp input
+INFO: 45 contigs discarded
+INFO: 15294 bp discarded
+INFO: 198 contigs output
+INFO: 2063827 bp output
+
