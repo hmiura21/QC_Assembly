@@ -33,5 +33,6 @@ Skesa was used to assemble the processed reads into contigs.
 - `Assembly_Log_Files`: Log file for standard error output from the skesa assembly step.
 - `QUAST_Files`: Quast results.txt files after assembly.
 - `FastA_Files`: FASTA file containing the filtered contigs.
+- `final_script.sh`: bash script that runs QC on 34 files. 
 
 
