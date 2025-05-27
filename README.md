@@ -31,8 +31,7 @@ Skesa was used to assemble the processed reads into contigs.
 
 # File Structure
 - `Assembly_Log_Files`: Log file for standard error output from the skesa assembly step.
-- `Assessment`: Quast results.txt and Filter-contigs.py output stdout files after assembly.
+- `QUAST_Files`: Quast results.txt files after assembly.
 - `FastA_Files`: FASTA file containing the filtered contigs.
-- `Trim_Log_Files`: Log file for standard error output from the fastp filtering step.
 
 
