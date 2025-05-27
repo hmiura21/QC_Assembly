@@ -1,0 +1,24 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    B1181903.skesa_assembly
+# contigs (>= 0 bp)         240                    
+# contigs (>= 1000 bp)      184                    
+# contigs (>= 5000 bp)      114                    
+# contigs (>= 10000 bp)     67                     
+# contigs (>= 25000 bp)     23                     
+# contigs (>= 50000 bp)     4                      
+Total length (>= 0 bp)      2097621                
+Total length (>= 1000 bp)   2069809                
+Total length (>= 5000 bp)   1897265                
+Total length (>= 10000 bp)  1546327                
+Total length (>= 25000 bp)  856761                 
+Total length (>= 50000 bp)  229070                 
+# contigs                   209                    
+Largest contig              63312                  
+Total length                2088009                
+GC (%)                      52.42                  
+N50                         19495                  
+N75                         9785                   
+L50                         32                     
+L75                         69                     
+# N's per 100 kbp           0.00                   
